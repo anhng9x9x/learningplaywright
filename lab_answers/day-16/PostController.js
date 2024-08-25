@@ -11,3 +11,7 @@ async getAllPostsByUserId(userId){
 async getPostByUserIdAndPostId(userId, postId){
 
 }
+
+async getAllPosts(){
+
+}
